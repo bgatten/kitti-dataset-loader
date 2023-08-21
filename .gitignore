@@ -1,0 +1,28 @@
+# Compiled object files and executables
+*.o
+*.out
+*.exe
+
+# Compiled Dynamic Libraries
+*.so
+
+# Compiled Static Libraries
+*.a
+
+# C++ build output
+build/
+
+# Visual Studio Code settings
+.vscode/
+
+# Mac OS X system files
+.DS_Store
+
+# Compiled Windows dynamic libraries
+*.dll
+
+# Compiled Windows executables
+*.exe
+
+# Linux core dumps
+core
